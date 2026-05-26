@@ -31,9 +31,7 @@ This IDS system is built on the **BoT-IoT dataset** and uses Naive Bayes classif
 ```
 ├── IDS_BoT_IoT.ipynb          # Main Jupyter notebook for model development
 ├── ids_dashboard.py            # Interactive Streamlit dashboard application
-├── ids_models/                 # Trained models and metrics
-├── data/                       # Dataset directory
-└── data_1.csv                  # BoT-IoT dataset
+
 ```
 
 ---
